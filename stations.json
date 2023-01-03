@@ -2,14 +2,14 @@
   "stations": [
     {
       "name": "Авиамоторная",
-      "line": "15",
+      "line": "8",
       "date": "30.12.1979",
       "depth": "-53",
       "hasConnection": true
     },
     {
       "name": "Авиамоторная",
-      "line": "8",
+      "line": "15",
       "date": "27.03.2020",
       "depth": "?",
       "hasConnection": true
