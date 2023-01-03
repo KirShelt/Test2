@@ -18,13 +18,13 @@
       "name": "Автозаводская",
       "line": "14",
       "date": "10.09.2016",
-      "depth": "-11",
+      "depth": "0",
       "hasConnection": true
     },
     {
       "name": "Автозаводская",
       "line": "2",
-      "depth": "0",
+      "depth": "-11",
       "hasConnection": true
     },
     {
